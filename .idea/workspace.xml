@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ErrigalAssessment:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b84ddac1-2d8a-4f19-a031-b6cfaf87076f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rkZuOGIS6AuoYH7V8zOnaRNxcT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.ErrigalAssessment.jar">
+    <configuration name="MenuController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenuController" />
+      <module name="ErrigalAssessment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ErrigalAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddressBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ErrigalAssessment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ErrigalAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrigalAssessment.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/ErrigalAssessment_jar/ErrigalAssessment.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.ErrigalAssessment.jar" />
+        <item itemvalue="Application.MenuController" />
+        <item itemvalue="JUnit.AddressBookTest" />
+        <item itemvalue="JUnit.All in ErrigalAssessment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b84ddac1-2d8a-4f19-a031-b6cfaf87076f" name="Default Changelist" comment="" />
+      <created>1619522269961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619522269961</updated>
+      <workItem from="1619522273826" duration="28588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="240" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1619559476166">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="240" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1619559476166" />
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1619536168406">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1619536168406" />
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619552775399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1619552775399" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1619559977007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619559977007" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1619559977005">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619559977005" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1619559977004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619559977004" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1619559977006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619559977006" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1619559976976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619559976976" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1619559976974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619559976974" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1619559976973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619559976973" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1619559976975">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619559976975" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1619559487826">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619559487826" />
+    <state x="77" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1619522276551">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="77" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1619522276551" />
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1619536469262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1619536469262" />
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1619539083587">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1619539083587" />
+    <state x="97" y="72" key="new project wizard" timestamp="1619559681722">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1619559681722" />
+    <state x="65" y="184" key="search.everywhere.popup" timestamp="1619522484872">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="65" y="184" key="search.everywhere.popup/0.23.1440.837@0.23.1440.837" timestamp="1619522484872" />
+  </component>
+</project>

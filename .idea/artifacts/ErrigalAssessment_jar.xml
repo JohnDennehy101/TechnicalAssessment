@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ErrigalAssessment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ErrigalAssessment_jar</output-path>
+    <root id="archive" name="ErrigalAssessment.jar">
+      <element id="module-output" name="ErrigalAssessment" />
+    </root>
+  </artifact>
+</component>
